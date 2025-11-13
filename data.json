@@ -1,0 +1,79 @@
+[
+    {
+     "firsname"  : "soufyan",
+     "lastname" : "el omrani",
+     "age" : "19",
+     "email" : "elomranisoufyan@gmail.com",
+     "pfp" : "assets/imgs/user-solid-full.svg"
+    },
+    {
+     "firsname"  : "Adam",
+     "lastname" : "taj",
+     "age" : "20",
+     "email" : "adamtaj@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (1).svg"
+    },
+    {
+     "firsname"  : "Youssef",
+     "lastname" : "jassour",
+     "age" : "20",
+     "email" : "youssefjassour@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (2).svg"
+    },
+    {
+     "firsname"  : "sara",
+     "lastname" : "sabih",
+     "age" : "20",
+     "email" : "sarasabih@egx.com",
+     "pfp" : "assets/imgs/user-solid-full (3).svg"
+    },
+    {
+     "firsname"  : "walid",
+     "lastname" : "jaddour",
+     "age" : "21",
+     "email" : "walidjaddour@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (4).svg"
+    },
+    {
+     "firsname"  : "ishak",
+     "lastname" : "el amiri",
+     "age" : "18",
+     "email" : "assets/imgs/user-solid-full (5).svg",
+     "pfp" : "added soon"
+    },
+    {
+     "firsname"  : "amine",
+     "lastname" : "el alaoui",
+     "age" : "22",
+     "email" : "amineelalaoui@gmail.com",
+     "pfp" : "assets/imgs/user-solid-full (6).svg"
+    },
+    {
+     "firsname"  : "soulaiman",
+     "lastname" : "kasimi",
+     "age" : "2019",
+     "email" : "adamtaj@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (7).svg"
+    },
+    {
+     "firsname"  : "Youssef",
+     "lastname" : "jassour",
+     "age" : "20",
+     "email" : "youssefjassour@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (8).svg"
+    },
+    {
+     "firsname"  : "sara",
+     "lastname" : "sabih",
+     "age" : "20",
+     "email" : "sarasabih@egx.com",
+     "pfp" : "assets/imgs/user-solid-full (9).svg"
+    },
+    {
+     "firsname"  : "walid",
+     "lastname" : "jaddour",
+     "age" : "21",
+     "email" : "walidjaddour@ec.com",
+     "pfp" : "assets/imgs/user-solid-full (10).svg"
+    }  
+]
